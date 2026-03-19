@@ -1,7 +1,7 @@
 """
 Programa de Geração de Personagem de Baldur's Gate 3
- Criado por Julia Baptista (adaptado para Python)
- """
+Criado por Julia Baptista
+"""
 
 import random
 from time import sleep
