@@ -25,13 +25,13 @@ while True:
     ]
 
     raca = random.choice(racas)
-    subraca = ''
     print()
     print('--' * 22)
     print(f'\nRaça: {raca}')
 
     # Escolhendo a Sub-raça
-    
+
+    subraca = ''
     subracas = {
         'Elfo': ['Elfo Altaneiro', 'Elfo da Floresta'],
         'Tiefling': ['Tiefling de Asmodeus', 'Tiefling de Mefistófeles', 'Tiefling de Zariel'],
