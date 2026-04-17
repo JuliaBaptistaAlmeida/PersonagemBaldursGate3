@@ -6,6 +6,8 @@ A cada execução, um novo personagem é criado com características diferentes,
 
 Projeto feito para praticar Python de forma leve e divertida ⚔️🐉
 
+---
+
 ## ⚠️ Direitos de uso
 
 © 2026 Julia Baptista
